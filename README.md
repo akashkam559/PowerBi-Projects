@@ -14,7 +14,7 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
 
 
 
-#Super Store Sales Dashboard + 15 Days ForeCast
+# Super Store Sales Dashboard + 15 Days ForeCast
 Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/reports/9930bfcb-6f0b-47b4-8a85-394013ec213d/ReportSectionf7b690221680c3029749?experience=power-bi
 
 ![Super Store Sales Dashboard + 15 Days ForeCast](https://github.com/akashkam559/PowerBi-Projects/assets/41515202/55ae3f17-f291-452b-995c-aa2c1d12ef80)
