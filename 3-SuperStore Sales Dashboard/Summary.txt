@@ -1,4 +1,31 @@
-Project Index
+PROJECT SUMMARY
+----------------------
+• Contributed to success of a business by providing valuable insights to support supermarket’s goals for growth, business success by leveraging historic data to generate sales for the next 15 days
+• Created, Built, Monitored visually appealing interactive dynamic dashboards and reports to help them track and analyze their online sales across India & allow user to explore dara at various levels of granularity
+• Understand, identify, track KPIs, metrices, key-influencers, Identified key factors to reduce attrition
+• For 2 years(2019 & 2020) 
+	Total orders = 22K, 
+	Total Sales = 1.6M, 
+	Total Profit = 175K, 
+	Min_of_Days_to_Ship_order = 4 Days
+
+• Maximum Sales  done by COD(43%,) & Minimum Sales done by Cards(23%), This shows people prefer COD than Cards for shopping & booking orders
+• Maximum Sales  happened in WestRegion(33%), Minimum Sales happened in(South), this shows west region are booking more order than south 
+• MAximum sales  happened in Consumer Segment(48%) & Minimum sales happened in HomeOffice(19%), this shows Customers/consumers are booking moew order Than cooperate people
+• Maximum sales  happened in Otober in 2019 due to festival season sale & discount rates on products
+• Maximum sales  happened in December in 2020 due to festival season & discount rates on products
+• Maximum Profit happened in Otober-November in 2019 & 2020 
+• Maximum sales  done for Office Supplies(0.64M) & Minimum sales for furniture(0.45M), means poeople are ordering for office supplies more than others products
+
+• Profit vs Month, maximum profit happened in October-November due to festival season sale & discount rates on products & minimum in May-July
+• Provided valuable & meaningful insights & Analysis for better decision making & insights in clear & concise manner to track and analyze their online sales to drive business success
+• Optimize and increase performance to improve loading time and user experience & Export, publish, deploy, Power BI Dashboard
+• Created connections, join new tables, Extracted data & performed data modeling, data cleaning, Data transformation(ETL), LOD Expressions, DAX queries, measure/calculations, dual-axis to manipulate data & dashaboard & used measure/calculation, filter/slicers
+• Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+• Used complex parameters to drill down in worksheet and customization using filters and slicers
+
+
+PROJECT INDEX
 ----------------------
 • Project Key Points
 • Project Overview
