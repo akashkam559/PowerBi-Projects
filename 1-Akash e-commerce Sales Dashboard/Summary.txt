@@ -1,3 +1,26 @@
+PROJECT SUMMARY
+----------------------
+• Developed SQL queries & Created, Built, Monitored visually appealing interactive dynamic dashboards and reports to help them track and analyze their online sales across India & allow user to explore data at various levels of granularity
+• Understand, identify, track KPIs, metrices, key-influencers, Identified key factors to reduce attrition
+• For 2 years(2019 & 2020)
+	Total Amount = 438K,
+ 	Total Profit= 37K,  
+	Total Quantity = 5615, 
+	Tota AOV = 120K
+• Top performing states with maximum sales & lowest sales
+• Top performing customer who bought maximum products & contributes to sales
+• Quantity vs category, maximum Quantities & minimum 
+• Quantity vs Payment Mode, maximum Quantities & minimum 
+• Profit vs Month, maximum profit happened in October-November due to festival season sale & discount rates on products & minimum in May-July
+• Profit vs Month, maximum profit happened in October-November due to festival season sale & discount rates on products & minimum in May-July
+
+• Provided valuable & meaningful insights & Analysis for better decision making & insights in clear & concise manner to track and analyze their online sales to drive business success
+• Optimize and increase performance to improve loading time and user experience & Export, publish, deploy, Power BI Dashboard
+• Created connections, join new tables, Extracted data & performed data modeling, data cleaning, Data transformation(ETL), LOD Expressions, DAX queries, measure/calculations, dual-axis to manipulate data & dashaboard & used measure/calculation, filter/slicers
+• Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+• Used complex parameters to drill down in worksheet and customization using filters and slicers
+
+
 Project Index
 ----------------------
 • Project- key points
