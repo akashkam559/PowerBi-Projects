@@ -1,3 +1,30 @@
+PROJECT SUMMARY
+----------------------
+• Helped organization to reduce employee attrition rate by utilizing data analysis techniques & Identified key factors& improve employee performance & Gain trust & make workforce more productive
+• Created, Built, Monitored visually appealing interactive dynamic dashboards and reports to help them track and analyze their online sales across India & allow user to explore data at various levels of granularity
+• Understand, identify, track KPIs, metrices, key-influencers, Identified key factors to reduce attrition
+• For 2 years(2019 & 2020)
+	Overall Employee/Employee Count = 1470, 
+	Attrition(who left) = 238, 
+	Attrition Rate = 16.2%, 
+	Average Age(who left) = 37, 
+	Average Salary(who left) = 65K, 
+	Average Years At Company(who left) = 7
+	• Attrition(who left) vs Education, Maximum people was from life Science(37%) & Minimum people was from Human Resources(3%), This means, Sales job role department people are happy & laboratory technician job role Department people are unhappy & left organization
+	• Attrition(who left) vs Job Role, Maximum people was from Laboratory Technician(62) & Minimum people was from Sales(33), This means, HR department people are happy & life science are unhappy & left organizatio
+	• Attrition(who left) vs Salary, Maximum people who has 5k salary & Minimum people who fall under 30K salary. This means, people who are 30K above salary are happy & below 5k are unhappy & left organization
+ 	• Attrition(who left) vs AVG AGE GROUP , Maximum people who has 26-35 age group & Minimum people who has 55+ age group . This means people having age 55+ are happy with job & 26-35 are unhappy due to salary & dept & left job
+  	• Attrition(who left) vs Years in company,  Maximum people stayed 2 years & Minimum people stayed 6 months. This means people are happy who stayed more than 2+ year because of good salary/pay & passionate about work in their department
+
+• Provided valuable & meaningful insights & Analysis for better decision making & insights in clear & concise manner to track and analyze their online sales to drive business success
+• Optimize and increase performance to improve loading time and user experience & Export, publish, deploy, Power BI Dashboard
+• Created connections, join new tables, Extracted data & performed data modeling, data cleaning, Data transformation(ETL), LOD Expressions, DAX queries, measure/calculations, dual-axis to manipulate data & dashaboard & used measure/calculation, filter/slicers
+• Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+• Used complex parameters to drill down in worksheet and customization using filters and slicers
+
+
+
+
 Project Index
 ----------------------
 • Project- key points
