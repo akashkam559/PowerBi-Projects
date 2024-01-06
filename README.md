@@ -16,19 +16,13 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
  	    Total Profit= 37K,  
 	    Total Quantity = 5615, 
 	    Tota AOV = 120K
- 
     • Top performing states with maximum sales & lowest sales
-
     • Top performing customer who bought maximum products & contributes to sales
-
     • Quantity vs category, maximum Quantities & minimum 
-
     • Quantity vs Payment Mode, maximum Quantities & minimum 
-
     • Profit vs Month, maximum profit happened in October-November due to festival season sale & discount rates on products & minimum in May-July
-
     • Profit vs Month, maximum profit happened in October-November due to festival season sale & discount rates on products & minimum in May-July
-
+    
 • Provided valuable & meaningful insights & Analysis for better decision making & insights in clear & concise manner to track and analyze their online sales to drive business success
 
 
