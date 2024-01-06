@@ -5,6 +5,32 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
 
 ![Akash e-commerce Sales Dashboard](https://github.com/akashkam559/PowerBi-Projects/assets/41515202/6e1800e1-4a03-4e69-afa2-7285d110bc60)
 
+# PROJECT SUMMARY
+
+• Developed SQL queries & Created, Built, Monitored visually appealing interactive dynamic dashboards and reports to help them track and analyze their online sales across India & allow user to explore data at various levels of granularity
+
+• Understand, identify, track KPIs, metrices, key-influencers, Identified key factors to reduce attrition
+
+    • For 2 years(2019 & 2020)
+	    Total Amount = 438K,
+ 	    Total Profit= 37K,  
+	    Total Quantity = 5615, 
+	    Tota AOV = 120K
+ 
+    • Top performing states with maximum sales & lowest sales
+
+    • Top performing customer who bought maximum products & contributes to sales
+
+    • Quantity vs category, maximum Quantities & minimum 
+
+    • Quantity vs Payment Mode, maximum Quantities & minimum 
+
+    • Profit vs Month, maximum profit happened in October-November due to festival season sale & discount rates on products & minimum in May-July
+
+    • Profit vs Month, maximum profit happened in October-November due to festival season sale & discount rates on products & minimum in May-July
+
+• Provided valuable & meaningful insights & Analysis for better decision making & insights in clear & concise manner to track and analyze their online sales to drive business success
+
 
 .
 
